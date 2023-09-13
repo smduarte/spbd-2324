@@ -1,7 +1,7 @@
 # Labs
 
 * [Lab 1](lab1) - MapReduce;
-<!* [Lab 2](lab2) - MrJob + MapReduce;
+<!-- * [Lab 2](lab2) - MrJob + MapReduce;
 * [Lab 3](lab3) - Spark Core (PySpark);
 * [Lab 4](lab4) - Spark Dataframes (PySpark);
 * [Lab 5](lab5) - Spark SQL (PySpark);
@@ -20,4 +20,5 @@ Groups 2 or 3 members are allowed, single student groups need aproval.
 
 Changes to group composition are allowed by editing the form til the date the assignment is
 published.
-!>
+
+-->
