@@ -1,3 +1,3 @@
 # Labs
 
-* [Lab 1](/lab1) - MapReduce;
+* [Lab 1](lab1) - MapReduce;
