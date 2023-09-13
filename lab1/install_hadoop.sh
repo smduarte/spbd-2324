@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HADOOP=hadoop-3.3.4
+HADOOP=hadoop-3.3.6
 wget -q https://downloads.apache.org/hadoop/common/$HADOOP/$HADOOP.tar.gz
 tar -xzf $HADOOP.tar.gz
 mv $HADOOP/ /usr/local/
