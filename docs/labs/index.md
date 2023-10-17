@@ -8,4 +8,4 @@
 
 # Project Assignment
 
-[notebook]()
+[notebook](https://github.com/smduarte/spbd-2324/tree/32e8da2c86d2e9c84108206c7f641395c6a4328f/proj)
