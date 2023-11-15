@@ -9,4 +9,4 @@
 
 # Project Assignment
 
-[notebook](https://github.com/smduarte/spbd-2324/tree/32e8da2c86d2e9c84108206c7f641395c6a4328f/proj)
+[notebook](https://github.com/smduarte/spbd-2324/blob/main/proj/SPBD2324_Proj.ipynb)
